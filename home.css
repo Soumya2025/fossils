@@ -811,12 +811,18 @@ html,
             background-size: 100% 100%;
             background-repeat: no-repeat;
             display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: auto;
+            width: auto;
         }
         #sec2-two{
             background-image: url(./vid-preview-hridoy-bhangbar-gaan.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat;  
             display: flex;
+            flex-direction: column;
+            align-items: center;
             
         }
         #sec2-three{
@@ -824,31 +830,40 @@ html,
             background-size: 100% 100%;
             background-repeat: no-repeat; 
             display: flex;
-            ;
+            flex-direction: column;
+            align-items: center;
         }
         #sec2-four{
             background-image: url(./vid-preview-janla.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat;  
             display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         #sec2-five{
             background-image: url(./vid-preview-palao.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat;  
             display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         #sec2-six{
             background-image: url(./vid-preview-mrito-manush.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat;  
             display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         #sec2-seven{
             background-image: url(./vid-preview-stobdho-jibon.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat; 
             display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         .sec2-head{
             color: #fff;
@@ -958,12 +973,16 @@ html,
             background-size: 100% 100%;
             background-repeat: no-repeat;
             display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         #sec2-two{
             background-image: url(./vid-preview-hridoy-bhangbar-gaan.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat;  
             display: flex;
+            flex-direction: column;
+            align-items: center;
             
         }
         #sec2-three{
@@ -971,31 +990,40 @@ html,
             background-size: 100% 100%;
             background-repeat: no-repeat; 
             display: flex;
-            ;
+            flex-direction: column;
+            align-items: center;
         }
         #sec2-four{
             background-image: url(./vid-preview-janla.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat;  
             display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         #sec2-five{
             background-image: url(./vid-preview-palao.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat;  
             display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         #sec2-six{
             background-image: url(./vid-preview-mrito-manush.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat;  
             display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         #sec2-seven{
             background-image: url(./vid-preview-stobdho-jibon.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat; 
             display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         .sec2-head{
             color: #fff;
@@ -1105,12 +1133,18 @@ html,
             background-size: 100% 100%;
             background-repeat: no-repeat;
             display: flex;
+            flex-direction: column;
+            align-items: center;
+            height: auto;
+            width: auto;
         }
         #sec2-two{
             background-image: url(./vid-preview-hridoy-bhangbar-gaan.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat;  
             display: flex;
+            flex-direction: column;
+            align-items: center;
             
         }
         #sec2-three{
@@ -1118,31 +1152,40 @@ html,
             background-size: 100% 100%;
             background-repeat: no-repeat; 
             display: flex;
-            ;
+            flex-direction: column;
+            align-items: center;
         }
         #sec2-four{
             background-image: url(./vid-preview-janla.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat;  
             display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         #sec2-five{
             background-image: url(./vid-preview-palao.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat;  
             display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         #sec2-six{
             background-image: url(./vid-preview-mrito-manush.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat;  
             display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         #sec2-seven{
             background-image: url(./vid-preview-stobdho-jibon.jpg);
             background-size: 100% 100%;
             background-repeat: no-repeat; 
             display: flex;
+            flex-direction: column;
+            align-items: center;
         }
         .sec2-head{
             color: #fff;
