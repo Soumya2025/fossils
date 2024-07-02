@@ -128,7 +128,7 @@
 }
 /* banner */
 #ban-one{
-    background-image: url(/2.jpg);
+    background-image: url(./2.jpg);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     height: 550px;
@@ -138,7 +138,7 @@
    
 }
 #ban-two{
-    background-image: url(/small.webp);
+    background-image: url(./small.webp);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     height: 550px;
@@ -147,7 +147,7 @@
     align-items: center;
 }
 #ban-three{
-    background-image: url(/fossl.webp);
+    background-image: url(./fossl.webp);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     height: 550px;
@@ -189,7 +189,7 @@
     font-weight: 600;
     border: 0px solid white;
     color: rgb(0, 0, 32);
-    background-image: url(/3.jpg);
+    background-image: url(./3.jpg);
     background-size: cover;
     
 }
@@ -207,7 +207,7 @@
     font-weight: 600;
     border: 0px solid white;
     color: rgb(0, 0, 32);
-    background-image: url(/3.jpg);
+    background-image: url(./3.jpg);
     background-size: cover;
     margin-right: 65px;
     
@@ -239,7 +239,7 @@
 }
 @media(max-width:575.98px){
     #ban-two{
-    background-image: url(/small.webp);
+    background-image: url(./small.webp);
     background-size: 100% 100%;
     background-repeat: no-repeat;
     height: 550px;
@@ -273,7 +273,7 @@
     font-weight: 600;
     border: 0px solid white;
     color: rgb(0, 0, 32);
-    background-image: url(/3.jpg);
+    background-image: url(./3.jpg);
     background-size: cover;
     margin-top: 20px;
     
@@ -305,7 +305,7 @@
         font-weight: 600;
         border: 0px solid white;
         color: rgb(0, 0, 32);
-        background-image: url(/3.jpg);
+        background-image: url(./3.jpg);
         background-size: cover;
         margin-top: 20px;
         margin-left: 30px;
@@ -330,7 +330,7 @@
         font-weight: 600;
         border: 0px solid white;
         color: rgb(0, 0, 32);
-        background-image: url(/3.jpg);
+        background-image: url(./3.jpg);
         background-size: cover;
         margin-top: 20px;
         margin-left: 70px;
@@ -356,7 +356,7 @@
         font-weight: 600;
         border: 0px solid white;
         color: rgb(0, 0, 32);
-        background-image: url(/3.jpg);
+        background-image: url(./3.jpg);
         background-size: cover;
         margin-top: 20px;
         margin-left: 70px;
@@ -1325,7 +1325,7 @@ html,
 }
 .sec3-item{
     height:500px;
-    background-image: url(/mem-rupam.jpg);
+    background-image: url(./mem-rupam.jpg);
     background-size: 100% 100%;
     display: flex;
     align-items: flex-end;
@@ -1353,7 +1353,7 @@ html,
 }
 .sec3-item1{
     height:500px;
-    background-image: url(/mem-allan.jpg);
+    background-image: url(./mem-allan.jpg);
     background-size: 100% 100%;
     display: flex;
     align-items: flex-end;
@@ -1361,7 +1361,7 @@ html,
 }
 .sec3-item2{
     height:500px;
-    background-image: url(/mem-deep.jpg);
+    background-image: url(./mem-deep.jpg);
     background-size: 100% 100%;
     display: flex;
     align-items: flex-end;
@@ -1369,7 +1369,7 @@ html,
 }
 .sec3-item3{
     height:500px;
-    background-image: url(/mem-tanmoy.jpg);
+    background-image: url(./mem-tanmoy.jpg);
     background-size: 100% 100%;
     display: flex;
     align-items: flex-end;
@@ -1377,7 +1377,7 @@ html,
 }
 .sec3-item4{
     height:500px;
-    background-image: url(/mem-pom.jpg);
+    background-image: url(./mem-pom.jpg);
     background-size: 100% 100%;
     display: flex;
     align-items: flex-end;
@@ -1420,7 +1420,7 @@ html,
     .sec3-item{
         height: 630px;
         width: 85%;
-        background-image: url(/mem-rupam.jpg);
+        background-image: url(./mem-rupam.jpg);
         background-size: cover;
         display: flex;
         align-items: flex-end;
@@ -1443,7 +1443,7 @@ html,
     }
     .sec3-item1{
         height: 630px;
-        background-image: url(/mem-allan.jpg);
+        background-image: url(./mem-allan.jpg);
         background-size: cover;
         width: 85%;
         display: flex;
@@ -1453,7 +1453,7 @@ html,
     }
     .sec3-item2{
         height:630px;
-        background-image: url(/mem-deep.jpg);
+        background-image: url(./mem-deep.jpg);
         background-size: cover;
         width: 85%;
         display: flex;
@@ -1463,7 +1463,7 @@ html,
     }
     .sec3-item3{
         height: 630px;
-        background-image: url(/mem-tanmoy.jpg);
+        background-image: url(./mem-tanmoy.jpg);
         display: flex;
         align-items: flex-end;
         justify-content: center;
@@ -1473,7 +1473,7 @@ html,
     }
     .sec3-item4{
         height:630px;
-        background-image: url(/mem-pom.jpg);
+        background-image: url(./mem-pom.jpg);
         display: flex;
         align-items: flex-end;
         justify-content: center;
@@ -1520,7 +1520,7 @@ html,
     .sec3-item{
         height: 950px;
         width: 85%;
-        background-image: url(/mem-rupam.jpg);
+        background-image: url(./mem-rupam.jpg);
         background-size: cover;
         display: flex;
         align-items: flex-end;
@@ -1543,7 +1543,7 @@ html,
     }
     .sec3-item1{
         height:950px;
-        background-image: url(/mem-allan.jpg);
+        background-image: url(./mem-allan.jpg);
         background-size: cover;
         width: 85%;
         display: flex;
@@ -1552,7 +1552,7 @@ html,
     }
     .sec3-item2{
         height:950px;
-        background-image: url(/mem-deep.jpg);
+        background-image: url(./mem-deep.jpg);
         background-size: cover;
         width: 85%;
         display: flex;
@@ -1562,7 +1562,7 @@ html,
     }
     .sec3-item3{
         height:950px;
-        background-image: url(/mem-tanmoy.jpg);
+        background-image: url(./mem-tanmoy.jpg);
         display: flex;
         align-items: flex-end;
         justify-content: center;
@@ -1571,7 +1571,7 @@ html,
     }
     .sec3-item4{
         height:950px;
-        background-image: url(/mem-pom.jpg);
+        background-image: url(./mem-pom.jpg);
         display: flex;
         align-items: flex-end;
         justify-content: center;
@@ -1615,7 +1615,7 @@ html,
     }
     .sec3-item{
         height:500px;
-        background-image: url(/mem-rupam.jpg);
+        background-image: url(./mem-rupam.jpg);
         background-size: 100% 100%;
         width: 19.2%;
         display: flex;
@@ -1640,7 +1640,7 @@ html,
     }
     .sec3-item1{
         height:500px;
-        background-image: url(/mem-allan.jpg);
+        background-image: url(./mem-allan.jpg);
         background-size: 100% 100%;
         display: flex;
         width: 19.5%;
@@ -1650,7 +1650,7 @@ html,
     }
     .sec3-item2{
         height:500px;
-        background-image: url(/mem-deep.jpg);
+        background-image: url(./mem-deep.jpg);
         background-size: 100% 100%;
         display: flex;
         width: 19.5%;
@@ -1660,7 +1660,7 @@ html,
     }
     .sec3-item3{
         height:500px;
-        background-image: url(/mem-tanmoy.jpg);
+        background-image: url(./mem-tanmoy.jpg);
         background-size: cover;
         display: flex;
         width: 19.3%;
@@ -1670,7 +1670,7 @@ html,
     }
     .sec3-item4{
         height:500px;
-        background-image: url(/mem-pom.jpg);
+        background-image: url(./mem-pom.jpg);
         background-size: 100% 100%;
         display: flex;
         width: 19.5%;
@@ -1705,7 +1705,7 @@ html,
     }
     .sec3-item{
         height:500px;
-        background-image: url(/mem-rupam.jpg);
+        background-image: url(./mem-rupam.jpg);
         background-size: 100% 100%;
         width: 18.5%;
         display: flex;
@@ -1719,7 +1719,7 @@ html,
     }
     .sec3-item1{
         height:500px;
-        background-image: url(/mem-allan.jpg);
+        background-image: url(./mem-allan.jpg);
         background-size: 100% 100%;
         display: flex;
         width: 18.5%;
@@ -1729,7 +1729,7 @@ html,
     }
     .sec3-item2{
         height:500px;
-        background-image: url(/mem-deep.jpg);
+        background-image: url(./mem-deep.jpg);
         background-size: 100% 100%;
         display: flex;
         width: 18.5%;
@@ -1738,7 +1738,7 @@ html,
     }
     .sec3-item3{
         height:500px;
-        background-image: url(/mem-tanmoy.jpg);
+        background-image: url(./mem-tanmoy.jpg);
         background-size: cover;
         display: flex;
         width: 18.5%;
@@ -1748,7 +1748,7 @@ html,
     }
     .sec3-item4{
         height:500px;
-        background-image: url(/mem-pom.jpg);
+        background-image: url(./mem-pom.jpg);
         background-size: 100% 100%;
         display: flex;
         width: 18.5%;
